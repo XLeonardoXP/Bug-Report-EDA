@@ -1,0 +1,9 @@
+numpy
+
+# --- Librerie per Analisi Esplorativa dei Dati (EDA) e Grafici ---
+pandas
+matplotlib # Per grafici di base
+seaborn # per istogrammi e heatmap
+missingno # Per visualizzare i dati mancanti
+scipy # Per test statistici e analisi di correlazione
+joblib # Per parallelizzazione e caching
